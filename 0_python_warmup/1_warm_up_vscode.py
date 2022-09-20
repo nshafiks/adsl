@@ -77,10 +77,10 @@ print(a)
 # Hint: follow the pattern.
 a = 1
 b = 2
-c.= 3
+c= 3
 
 # Hint: Check the tooltip.
-def notUsed()
+def notUsed():
     print('Hello!')
 
 
